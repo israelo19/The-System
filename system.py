@@ -55,7 +55,7 @@ progress(10, rfloat)
 time.sleep(1)
 os.system("clear")
 time.sleep(0.5)
-print(text2art("Access Granted.", font="cybersmall"))
+print(text2art("Welcome.", font="cybersmall"))
 
 
 if choice == "[2] Exit":
