@@ -40,13 +40,14 @@ Run the system:
 ```bash
 python system.py
 ```
+<img width="499" height="205" alt="Screenshot 2025-08-11 at 4 33 42 PM" src="https://github.com/user-attachments/assets/3a16cb06-eec9-4be8-9bb1-4b1c434bfe36" />
 
-Enter the password when prompted (hint: it's `abc`) and enjoy the retro terminal experience!
+Enter the password when prompted (hint: it's in the code) and enjoy the retro terminal experience!
 
 ## Dependencies 
 
 - `art` - For generating ASCII art text
-- `InquirerPy` - For enhanced CLI interactions (ready for future features)
+- `InquirerPy` - For enhanced CLI interactions 
 
 
 ## Inspiration 
@@ -74,4 +75,4 @@ This project is open source and available under the MIT License.
 
 *"Access Granted" - The System*
 
-Built with ❤️ and a love for retro computing aesthetics.
+Built with a love for retro computing aesthetics.
